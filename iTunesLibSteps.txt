@@ -1,0 +1,5 @@
+Here is how you can export your own iTunes library ->
+
+File > Library > Export Library
+
+Then save your XML file.
